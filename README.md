@@ -55,7 +55,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 ## Текущая успеваемость
 
- [ТБД-81]()
+ [ТБД-81](https://docs.google.com/spreadsheets/d/1LhJVeOt4SUAfcl2VqmtYIUsI1eZX3sz-OJBXRNctIz4/edit?usp=sharing)
 
 ### [Индивидуальное задание 1](/practice/Ind_z_1.pdf)
 
