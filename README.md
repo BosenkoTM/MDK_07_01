@@ -45,7 +45,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 `УДАЛЕННОЕ РАБОЧЕЕ МЕСТО`:
    
- - OC **`Ubuntu 20.04`**  Для предоставления результатов работы потребуется клиент [anydesk](  https://anydesk.com/en/downloads/windows).
+ - OC **`Ubuntu 20.04`**  Для предоставления результатов работы потребуется клиент [anydesk](https://anydesk.com/en/downloads/windows).
    
  - `ВИРТУАЛЬНАЯ ГОСТЕВАЯ ОС`.
 
@@ -92,7 +92,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
   
   - реализовать алгоритм загрузки данных:
   
-       - [**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/) ); 
+       - [**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/); 
        
   - сгенерировать физическую схему бд; 
   
