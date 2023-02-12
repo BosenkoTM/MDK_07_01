@@ -103,7 +103,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
   
   - реализовать алгоритм загрузки данных:
 
-      - [**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/) ); 
+      - [**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/); 
       
       - [**`данные2`**](https://disk.yandex.ru/d/40Xq-CfWklBNfQ) импортировать с использованием локального коннектора [`DBeaver`](https://dbeaver.io/).
   - сгенерировать физическую схему бд.
