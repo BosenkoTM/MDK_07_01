@@ -87,16 +87,25 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 Реализовать [интеграцию данных](https://disk.yandex.ru/d/nq4RLfxiJMELlw) в формате CSV с/на сервер БД
 
 1. **Загрузить данные в СУБД `MySQL`**
+
   - развернуть докер-контейнер сервер `Mysql`;
+  
   - реализовать алгоритм загрузки данных:
-       -[**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/) ); 
+  
+       - [**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/) ); 
+       
   - сгенерировать физическую схему бд; 
+  
   - оформить отчет.
 2. **Загрузить данные в СУБД `Postgres`**
+
   - развернуть [докер-контейнер](https://hub.docker.com/r/dpage/pgadmin4/) или [инсталятор](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) сервер Postgres+Pgadmin;
+  
   - реализовать алгоритм загрузки данных:
-      -[**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/) ); 
-      -[**`данные2`**](https://disk.yandex.ru/d/40Xq-CfWklBNfQ) импортировать с использованием локального коннектора [`DBeaver`](https://dbeaver.io/).
+
+      - [**`данные1`**](https://disk.yandex.ru/d/gmrhTgGjYNX-eg) импортировать через сервис [ `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/) ); 
+      
+      - [**`данные2`**](https://disk.yandex.ru/d/40Xq-CfWklBNfQ) импортировать с использованием локального коннектора [`DBeaver`](https://dbeaver.io/).
   - сгенерировать физическую схему бд.
 
 ### Индивидуальное задание 3
