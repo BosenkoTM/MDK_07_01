@@ -49,9 +49,9 @@ Timur Bosenko M. (bosenko@bmstu.ru)
    
  - `ВИРТУАЛЬНАЯ ГОСТЕВАЯ ОС`.
 
- - Учётная запись[Discord](https://discord.gg/6vTQk4CW).
+ - Учётная запись [Discord](https://discord.gg/6vTQk4CW).
  
- - Учётная запись[Gogs](http://95.131.149.21:3000/)).
+ - Учётная запись [Gogs](http://95.131.149.21:3000/)).
 
 ## Текущая успеваемость
 
@@ -110,7 +110,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 ### Индивидуальное задание 3
 
-[mysql-guides:triggers](https://github.com/yesnik/mysql-guides/blob/master/triggers.md)
+[mysql-guides: triggers](https://github.com/yesnik/mysql-guides/blob/master/triggers.md)
 
 Сертификация [Triggers]()
 
