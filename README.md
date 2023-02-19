@@ -112,7 +112,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 [mysql-guides: triggers](https://github.com/yesnik/mysql-guides/blob/master/triggers.md)
 
-Сертификация [Triggers]()
+Сертификация [Triggers](/questions/README.md)
 
 ## `Учебная практика` 
 
