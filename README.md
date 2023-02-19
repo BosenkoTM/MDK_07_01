@@ -110,6 +110,10 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 ### Индивидуальное задание 3
 
+[Теоретический минимум](/sql-tasks/README.md)
+
+
+
 
 ## `Учебная практика` 
 
