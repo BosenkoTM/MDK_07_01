@@ -75,9 +75,11 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 ### Индивидуальное задание 3
 
-[mysql-guides: triggers](https://github.com/yesnik/mysql-guides/blob/master/triggers.md)
+Теоретический минимум [Mysql triggers](/sql-tasks/README.md).
 
-Сертификация [Triggers](/questions/README.md)
+Сертификация [Triggers](/questions/README.md).
+
+[mysql-guides: triggers](https://github.com/yesnik/mysql-guides/blob/master/triggers.md).
 
 ## `Учебная практика` 
 
