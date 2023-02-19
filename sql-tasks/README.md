@@ -5,7 +5,7 @@
 Виды триггеров:
 1. `INSERT` (BEFORE | AFTER)
 2. `UPDATE` (BEFORE | AFTER)
-3. DELETE (BEFORE | AFTER)
+3. `DELETE` (BEFORE | AFTER)
 
 Области применения:
 1. обеспечение ссылочной целостности при сохранении записи
