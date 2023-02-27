@@ -96,6 +96,8 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 6. Защита и сохранность информации баз данных.
 
+Практическое задание [DE_1](https://github.com/BosenkoTM/PM.07-Database-and-server-co-administration/tree/main/edu_practice/DE_01)
+
 ## Теоретические вопросы
 
 1.	Технология установки и настройка сервера MySQL в операционной системе Windows.
