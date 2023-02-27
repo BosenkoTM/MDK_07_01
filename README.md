@@ -96,7 +96,19 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 6. Защита и сохранность информации баз данных.
 
-Практическое задание [DE_1](https://github.com/BosenkoTM/PM.07-Database-and-server-co-administration/tree/main/edu_practice/DE_01)
+Практическое задание [DE_1](https://github.com/BosenkoTM/PM.07-Database-and-server-co-administration/tree/main/edu_practice/DE_01).
+
+ - Развернуть `Postgres Server`+`pgadmin4`.
+ 
+ - Развернуть `Mysql Server`.
+ 
+ - Загрузить [схему данных БД](/edu_practice/DE_01/Сессия%201/my.sql) в СУБД `MySQL`, `Postgres`.
+ 
+ - Загрузить в [схему данных БД](/edu_practice/DE_01/Сессия%201/my.sql) входные данные из [CSV-файлов](/edu_practice/DE_01/Сессия%201/service_s_import.csv)  и [txt](/edu_practice/DE_01/Сессия%201/client_s_import.txt).
+ 
+ - Построить `Case`-диаграмму.
+
+- Построить словарь данных.
 
 ## Теоретические вопросы
 
