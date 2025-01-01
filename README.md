@@ -14,9 +14,6 @@ Timur Bosenko M. (bosenko@bmstu.ru)
    
  - `ВИРТУАЛЬНАЯ ГОСТЕВАЯ ОС`.
 
- - Учётная запись [Discord](https://discord.gg/6vTQk4CW).
- 
- - Учётная запись [Gogs](http://95.131.149.21:3000/)).
 
 ## Текущая успеваемость
 
